@@ -2,7 +2,7 @@
 
 # Gadget-Galaxy-Sales-Report-2023
 
-<iframe title="SALES_2023" width="1000" height="800" src="https://app.powerbi.com/view?r=eyJrIjoiZWJjMTBhYzYtNjk2Mi00YjM1LThkZGEtMjAwOTBlYzUzYjMxIiwidCI6ImViOGZiNTVjLTcyMDEtNDE0Yy05MDdlLWVhYTAwMmZlOThhMCIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="SALES_2023" width="1000" height="740" src="https://app.powerbi.com/view?r=eyJrIjoiZWJjMTBhYzYtNjk2Mi00YjM1LThkZGEtMjAwOTBlYzUzYjMxIiwidCI6ImViOGZiNTVjLTcyMDEtNDE0Yy05MDdlLWVhYTAwMmZlOThhMCIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>
 
 ## DAX
 
